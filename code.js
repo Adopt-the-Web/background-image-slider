@@ -1,8 +1,8 @@
 var slides = [
-  "http://67.227.248.6/~dco/wp-content/uploads/2020/09/kraftmaid.jpg",
-  "http://67.227.248.6/~dco/wp-content/uploads/2020/09/Kitty_Hawk_Background.jpg",
-  "http://67.227.248.6/~dco/wp-content/uploads/2020/09/Norwich-6-27-17-scaled.jpg",
-  "http://67.227.248.6/~dco/wp-content/uploads/2020/09/Garrison_White-Garrison_Slate_Cherry-OA2.jpg"
+  "https://domain.com/photo1.jpg",
+  "https://domain.com/photo2.jpg",
+  "https://domain.com/photo3.jpg",
+  "https://domain.com/photo4.jpg"
 ];
 function Preload(arrayName){
   for (var i = 0; i < arrayName.length - 1; ++i) {
